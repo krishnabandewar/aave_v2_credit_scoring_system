@@ -260,7 +260,7 @@ Technical details including:
 
 ## 📬 Contact & Support
 
-For questions, suggestions, or collaboration, please open an issue or contact the maintainer at [your-email@example.com].
+For questions, suggestions, or collaboration, please open an issue or contact the maintainer at [krishnabandewar43@gmail.com].
 
 ## 🤝 Contributing
 
